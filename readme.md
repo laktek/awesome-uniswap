@@ -22,6 +22,7 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 * [revert.finance](https://revert.finance) – actionable analytics for DeFi liquidity providers_
 * [croco.finance](https://croco.finance/#/) – v3 tools for liquidity providers
 * [simplefi.finance](https://simplefi.finance) – defi analytics
+* [seedle.finance](https://seedle.finance) - track LP performance for v3
 
 ### Governance
 
